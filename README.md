@@ -33,6 +33,6 @@ In file make_video.sh
 - Change the result vedio fps by change "ffmpeg -r 24" default is 24 fps.
 
 ## Credits
-This project crate by chengzhi yang.
+This project crate by chengzhi yang. 
 Actually this project is modify from [osx-timelapse](https://github.com/patrickward/osx-timelapse)(written by Patrick Ward) for support
 high resolution screen such as Retina screen.
