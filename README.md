@@ -7,7 +7,7 @@ USE AT YOUR OWN RISK. The License is WTFPL (see LICENSE.txt).
 ## Features
 
 - Take screenshots by custom interval.
-- Custom screenshot's resolution and quality.
+- Custom screenshot's resolution and quality. (It's means support Retina screen.)
 - Gather screenshots to create a video.
 
 ## Requirements
