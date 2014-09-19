@@ -1,15 +1,9 @@
 #!/bin/bash
 # timelapse
+# Github: https://github.com/czyang/timelapse-bash
 #
-# Modify frome: https://github.com/patrickward/osx-timelapse
-# Records a sequence of screencaptures at regular intervals.
-#
-# Require: imageMagick
-#
-# Usage: ./timelapse.sh to start.
-# In line:"convert $TEMP_NAME -quality 50% -resize 50% $FILENAME"
-# Change resize argument can get the custom resolution, eg. -resize 1024x768
-# Change quality can custom screenshoot quality.
+# Take screenshots at customize intervals then use ImageMagick
+# process the image to get customize resolution and quality.
 #
 i=0;
 while true; do
